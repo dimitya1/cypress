@@ -1,0 +1,17 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Learning Cypress framework",
+  "main": "index.js",
+  "scripts": {
+    "open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.8.1"
+  }
+}

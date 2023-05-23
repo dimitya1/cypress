@@ -1,0 +1,7 @@
+/node_modules
+/.fleet
+/.idea
+/.vscode
+/cypress/videos
+/cypress/screenshots
+/cypress/fixtures/secret.json
